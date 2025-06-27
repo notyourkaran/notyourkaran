@@ -34,11 +34,14 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/notyourkaran" target="blank">
+  <a href="https://instagram.com/avi._idk" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:avishuae@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1317520928338608148" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -46,4 +49,3 @@
 
 ### ⚡ Fun Fact
 > I build, break, and rebuild until it works 💥
-
