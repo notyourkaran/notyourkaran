@@ -52,6 +52,23 @@
 
 ---
 
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notyourkaran&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notyourkaran&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notyourkaran&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notyourkaran&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
