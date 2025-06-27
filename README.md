@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+stuff+with+code;Node.js+%7C+Python+%7C+APIs;Always+learning+and+improving...&center=true&width=440&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+stuff+with+code;Node.js+%7C+Python+%26+APIs;Always+learning+and+improving...&center=true&width=440&height=45" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-### Discord Presence
+### 🟢 Discord Presence
 
 <p align="left">
   <img src="https://lanyard.cnrad.dev/api/1317520928338608148?animated=true&borderRadius=10px" alt="Discord Presence" />
