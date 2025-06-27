@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I'm Karan</h1>
-<h3 align="center">Backend Developer | Node.js & Python</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Hey%20👋%20I'm%20Karan&fontSize=35&fontAlignY=35&desc=Backend%20Developer%20|%20Node.js%20%26%20Python&descSize=20&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+stuff+with+code;Node.js+%7C+Python+%7C+APIs;Always+learning+and+improving...&center=true&width=440&height=45" />
@@ -22,7 +23,7 @@
 
 ---
 
-### 🟢 Discord Presence
+### Discord Presence
 
 <p align="left">
   <img src="https://lanyard.cnrad.dev/api/1317520928338608148?animated=true&borderRadius=10px" alt="Discord Presence" />
@@ -62,3 +63,7 @@
 ### ⚡ Fun Fact
 
 > I build, break, and rebuild until it works 💥
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
+</p>
