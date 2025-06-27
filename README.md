@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Hey%20I%20am%20Karan&fontSize=35&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%26%20Python&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=180&section=header&text=Hey%20I%20am%20Karan&fontSize=35&fontAlignY=35&desc=Backend%20Developer%20-%20Node.js%20and%20Python&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+stuff+with+code;Node.js+%7C+Python+%26+APIs;Always+learning+and+improving...&center=true&width=440&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+code;Node.js+and+Python;Always+learning+something+new" />
 </p>
 
 <p align="center">
@@ -70,8 +70,8 @@
 
 ### ⚡ Fun Fact
 
-> I build, break, and rebuild until it works 💥
+> I build, break, and rebuild until it works.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a00e0&height=120&section=footer"/>
 </p>
