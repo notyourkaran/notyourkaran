@@ -18,6 +18,14 @@
 
 ---
 
+### 🟢 Discord Presence
+
+<p align="left">
+  <img src="https://lanyard.cnrad.dev/api/1317520928338608148?animated=true&borderRadius=10px" alt="Discord Presence" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -48,4 +56,5 @@
 ---
 
 ### ⚡ Fun Fact
+
 > I build, break, and rebuild until it works 💥
